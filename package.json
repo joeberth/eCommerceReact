@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "heroku": "node app.js"
+    "start": "node app.js",
+    "inicial": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
